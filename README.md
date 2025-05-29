@@ -17,18 +17,18 @@ Some columns included missing values and required preprocessing.
 ## ⚙️ Tasks Covered
 - Data Cleaning (handling missing values, encoding)
 - Feature Engineering (weekday, encoded categories)
-- Regression Modeling with `scikit-learn`
+- Regression Modeling with **scikit-learn**
 - Forecasting next 90 days of sales
-- Data Visualization with `matplotlib`
+- Data Visualization with **matplotlib**
 
 ## 🔍 Sample Output
 
 ![Forecast](./forecast_plot.png)
 
 ## 📁 Files
-- `sales_forecast_model.ipynb`: Full notebook from data cleaning to forecasting
-- `sales_data_dirty.csv`: Raw dataset (simulated)
-- `forecast_plot.png`: Final sales prediction chart
+- **sales_forecast_model.ipynb**: Full notebook from data cleaning to forecasting
+- **sales_data_dirty.csv**: Raw dataset (simulated)
+- **forecast_plot.png**: Final sales prediction chart
 
 ## ✅ Tools Used
 - Python (pandas, numpy, matplotlib, scikit-learn)
